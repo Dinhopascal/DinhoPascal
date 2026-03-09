@@ -34,7 +34,7 @@ Je suis développeur passionné par la création d'interfaces utilisateur élég
 ## 📊 Statistiques GitHub
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dinhopascal&hide_border=&locale=fr&short_numbers=&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinhopascal&layout=compact&theme=material-palenight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinhopascal&layout=compact&theme=dracula)
 
 ![](https://komarev.com/ghpvc/?username=Dinhopascal&style=flat-square&color=blue)
-                                                                                                                                                                                    
+                                               
