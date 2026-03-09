@@ -33,9 +33,9 @@ Je suis développeur passionné par la création d'interfaces utilisateur élég
 
 ## 📊 Statistiques GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DinhoJerry&show_icons=true&theme=material-palenight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinhopascal&show_icons=true&theme=material-palenight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DinhoPascal&layout=compact&theme=material-palenight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dinhopascal&layout=compact&theme=material-palenight)
 
-![](https://komarev.com/ghpvc/?username=DinhoPascal&style=flat-square&color=blue)
+![](https://komarev.com/ghpvc/?username=Dinhopascal&style=flat-square&color=blue)
                                                                                                                                                                                     
